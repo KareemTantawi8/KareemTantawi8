@@ -1,5 +1,12 @@
 # 💫 About Me:
-🚀 Senior Flutter Developer<br>💡 Architecting scalable & secure mobile apps<br>📱 Expert in Riverpod • Clean Architecture • Multi-module systems<br>🔐 Specialized in authentication flows, state management, and performance<br>⚙️ Experienced with backend integrations, CI/CD, and cloud services<br>🌐 Currently learning Full-Stack (Node.js) + stepping into AI<br>🔥 Passionate about building meaningful, high-impact digital products
+🚀 <b>Senior Flutter Developer</b><br>
+💡 Engineering scalable, robust, and secure mobile applications<br>
+📱 Expert in <b>Riverpod • Bloc • Cubit • Provider • GetX • Clean Architecture • Multi-module systems</b><br>
+🔐 Specialized in <b>authentication flows, advanced state management patterns, performance optimization, and app security</b><br>
+⚙️ Experienced with <b>backend integrations, REST APIs, CI/CD pipelines, cloud services, and modular app architecture</b><br>
+🌐 Expanding into <b>Full-Stack Development (Node.js)</b> and exploring <b>AI & Data Science</b><br>
+🔥 Passionate about <b>building impactful digital products</b> with clean, maintainable, and scalable code<br>
+
 
 
 ## 🌐 Socials:
