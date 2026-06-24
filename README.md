@@ -1,78 +1,114 @@
-# 💫 About Me  
-🚀 <b>Senior Flutter Developer</b><br>
-💡 Engineering scalable, robust, and secure enterprise-level mobile applications<br>
-📱 Expert in <b>Riverpod • Bloc • Cubit • Provider • GetX • Clean Architecture • Multi-module systems</b><br>
-🔐 Specialized in <b>authentication systems, advanced state management, high-performance architectures, and app security</b><br>
-⚙️ Experienced with <b>REST APIs, backend integrations, CI/CD pipelines, Docker, cloud services, and micro-module architectures</b><br>
-🌐 Expanding into <b>Full-Stack Development (Node.js)</b> and exploring <b>AI & Data Science</b><br>
-🔥 Passionate about <b>building high-impact digital products</b> with clean, maintainable, and scalable code<br>
+<h1 align="center">Hi 👋, I'm Kareem Mahmoud</h1>
+<h3 align="center">Senior Flutter Developer | Mobile Application Engineer</h3>
 
+<p align="center">
+🚀 Building scalable Android & iOS applications<br>
+🏗️ Clean Architecture • Riverpod • BLoC • Firebase • REST APIs<br>
+📱 5+ Years Experience • Enterprise Applications • Published Apps
+</p>
 
----
-
-# 📱 Featured Projects – Live on Stores
-
-### 🔵 **WAIE – Aldrees Mobile App**  
-A complete enterprise ecosystem for fuel cards, driver management, user onboarding, 2FA authentication, dashboards, NFC, maps & more.
-
-#### ▶️ **Download Now**
-- **Android (Google Play):**  
-  https://play.google.com/store/apps/details?id=com.waie.aldrees.mobile  
-- **iOS (App Store):**  
-  https://apps.apple.com/us/app/%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D8%B3-aldrees/id6738043230
+<p align="center">
+<a href="https://kareem-mahmoud.lovable.app/">🌍 Portfolio</a> •
+<a href="https://www.linkedin.com/in/kareem-mahmoud-a50822218/">LinkedIn</a> •
+<a href="mailto:kareem01229526319@gmail.com">Email</a>
+</p>
 
 ---
 
-# 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1FRDxQzuUd/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mahmoud-a50822218/)  
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20736012/kareem-mahmoud)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kareem01229526319@gmail.com)  
+## 💫 About Me
+
+* 🚀 Senior Flutter Developer with 5+ years of experience
+* 📱 Specialized in Android & iOS Development using Flutter
+* 🏗️ Expert in Clean Architecture, SOLID Principles & Scalable Mobile Architectures
+* ⚡ Advanced State Management: Riverpod, BLoC, Cubit, Provider & GetX
+* 🔥 Experienced with Firebase, REST APIs, WebSockets & Payment Integrations
+* 🍏 Native iOS Development using Swift
+* 🌍 Currently working in Saudi Arabia
 
 ---
 
-# 💻 Tech Stack  
-### **Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+## 📱 Published Applications
 
-### **State Management**
-![Riverpod](https://img.shields.io/badge/Riverpod-0A7ACA?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-4584b6?style=for-the-badge)
+### 🚛 WAIE – Logistics & Fuel Services Super App
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-success?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.waie.aldrees.mobile)
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-blue?style=for-the-badge\&logo=app-store)](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%AF%D8%B1%D9%8A%D8%B3-aldrees/id6738043230)
+
+---
+
+### 🏠 Homemark – Home Services Marketplace
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-success?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=co.shopney.homemarkapp)
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-blue?style=for-the-badge\&logo=app-store)](https://apps.apple.com/sa/app/homemark/id6497225115)
+
+---
+
+### 🚗 Wash Slender – Automotive Marketplace
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-success?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.kareem.washslender)
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-blue?style=for-the-badge\&logo=app-store)](https://apps.apple.com/us/app/%D9%88%D8%B4-%D8%B3%D9%84%D9%86%D8%AF%D8%B1/id6772749229)
+
+---
+
+### 🕌 Yaqeen – Islamic Mobile Application
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-success?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.yaqeen.mobile)
+
+---
+
+## 💻 Tech Stack
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
+
+### State Management
+
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge)
+![Cubit](https://img.shields.io/badge/Cubit-02569B?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-000000?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-1976D2?style=for-the-badge)
 
-### **Backend & Cloud**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Architecture
 
-### **DevOps / Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-111827?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-111827?style=for-the-badge)
+
+### Backend & Integrations
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-02569B?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=KareemTantawi8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KareemTantawi8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTantawi8&theme=dark&hide_border=false&layout=compact)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kareem-mahmoud-a50822218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kareem01229526319@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/KareemTantawi8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://kareem-mahmoud.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge"/></a>
+</p>
 
 ---
 
-# 👁️ Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=KareemTantawi8&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KareemTantawi8\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KareemTantawi8\&layout=compact\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KareemTantawi8\&theme=tokyonight)
 
 ---
 
-<!-- Proudly generated & customized with GPRM -->
+⭐ Building scalable mobile experiences with Flutter.
