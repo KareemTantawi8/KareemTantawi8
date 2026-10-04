@@ -79,6 +79,16 @@ Senior Flutter Developer at **Aldrees Petroleum & Transport Services** in Riyadh
       <a href="https://play.google.com/store/apps/details?id=co.shopney.homemarkapp"><img alt="Homemark on Google Play" src="https://img.shields.io/badge/Google_Play-01875F?style=flat-square&logo=googleplay&logoColor=white" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Medmacs</h3>
+      <sub><b>MEDICAL EDUCATION PLATFORM</b></sub>
+      <p>Learning platform for MBBS students in Pakistan: a 50,000+ MCQ question bank with explained answers, an AI study partner, adaptive tests and full-length exam papers, a real-time Battle Arena for MCQ challenges, and subject-wise performance analytics.</p>
+      <p><code>Flutter</code> <code>BLoC / Cubit</code> <code>REST</code> <code>Firebase</code></p>
+      <a href="https://play.google.com/store/apps/details?id=com.hmacs.medmacs"><img alt="Medmacs on Google Play" src="https://img.shields.io/badge/Google_Play-01875F?style=flat-square&logo=googleplay&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## Tech stack
