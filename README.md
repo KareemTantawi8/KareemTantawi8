@@ -22,10 +22,9 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="25%"><h3>100K+</h3><sub>Google Play downloads<br />WAIE super-app</sub></td>
-    <td align="center" width="25%"><h3>4.7 / 5</h3><sub>store rating<br />from 11K+ ratings</sub></td>
-    <td align="center" width="25%"><h3>4</h3><sub>apps live on the<br />App Store &amp; Google Play</sub></td>
-    <td align="center" width="25%"><h3>3+ yrs</h3><sub>shipping Flutter<br />to production</sub></td>
+    <td align="center" width="33%"><h3>100K+</h3><sub>Google Play downloads<br />WAIE super-app</sub></td>
+    <td align="center" width="33%"><h3>4.7 / 5</h3><sub>store rating<br />from 11K+ ratings</sub></td>
+    <td align="center" width="33%"><h3>3+ yrs</h3><sub>shipping Flutter<br />to production</sub></td>
   </tr>
 </table>
 </div>
@@ -76,6 +75,8 @@ Senior Flutter Developer at **Aldrees Petroleum & Transport Services** in Riyadh
       <sub><b>HOME SERVICES MARKETPLACE</b></sub>
       <p>Bilingual (Arabic RTL / English) marketplace connecting customers with verified service providers: discovery, scheduling, tracking and ratings, plus a vendor side with profile, availability, bookings and an earnings dashboard.</p>
       <p><code>Flutter</code> <code>BLoC / Cubit</code> <code>REST</code> <code>Firebase</code> <code>GetIt</code></p>
+      <a href="https://apps.apple.com/sa/app/homemark/id6497225115"><img alt="Homemark on the App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a>
+      <a href="https://play.google.com/store/apps/details?id=co.shopney.homemarkapp"><img alt="Homemark on Google Play" src="https://img.shields.io/badge/Google_Play-01875F?style=flat-square&logo=googleplay&logoColor=white" /></a>
     </td>
   </tr>
 </table>
