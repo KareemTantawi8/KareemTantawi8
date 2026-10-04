@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://kareem-mahmoud.lovable.app/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-      <img alt="Kareem Mahmoud — Senior Flutter & Mobile Developer. Architecting production mobile products at scale." src="./dark_mode.svg" width="100%" />
-    </picture>
+    <img alt="Kareem Mahmoud — Senior Flutter & Mobile Developer. Architecting production mobile products at scale." src="./kareem_banner.svg" width="100%" />
   </a>
 </p>
 
@@ -28,6 +24,10 @@
   </tr>
 </table>
 </div>
+
+<p align="center">
+  <img alt="Cross-platform mobile development with Flutter for iOS and Android" src="./flutter_banner.gif" width="100%" />
+</p>
 
 ## About
 
